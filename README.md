@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-fgfpcKL3O2](https://your-solution-url.com)
-- Live Site URL: [https://leqsar.github.io/news-homepage-grid/](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-fgfpcKL3O2]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-fgfpcKL3O2))
+- Live Site URL: [https://leqsar.github.io/news-homepage-grid/](https://leqsar.github.io/news-homepage-grid/ )
 
 ## My process
 
